@@ -11,7 +11,7 @@ if(isset($_POST['firstname']) && isset($_POST['lastname']) && isset($_POST['emai
 	$mail->From = $email;
 	$mail->CharSet = "UTF-8";
 	$mail->FromName = $email;
-	$mail->addAddress("youremail@company.com"); 
+	$mail->addAddress("deepu806@gmail.com");
 	
 	$mail->IsHTML(true);
 	$mail->Subject = $name." sent you an email";

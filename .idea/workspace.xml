@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="062058f5-b7f9-474b-a48e-aa2b98c25963" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/anudeep.png" afterPath="$PROJECT_DIR$/image/anudeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/anudeep2.png" afterPath="$PROJECT_DIR$/image/anudeep2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/send.php" afterPath="$PROJECT_DIR$/send.php" />
     </list>
     <ignored path="dasarianudeep.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,11 +80,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9325236">
+            <state vertical-scroll-proportion="-9.337838">
               <caret line="1461" column="1" selection-start-line="1461" selection-start-column="1" selection-end-line="1461" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/send.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41935483">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -114,10 +121,10 @@
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/js/creative-brands.js" />
         <option value="$PROJECT_DIR$/css/creative-brands.css" />
-        <option value="$PROJECT_DIR$/send.php" />
         <option value="$PROJECT_DIR$/css/animate.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/send.php" />
       </list>
     </option>
   </component>
@@ -403,6 +410,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -445,13 +453,6 @@
         <state vertical-scroll-proportion="0.21472393">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/send.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -574,8 +575,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9325236">
+        <state vertical-scroll-proportion="-9.337838">
           <caret line="1461" column="1" selection-start-line="1461" selection-start-column="1" selection-end-line="1461" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41935483">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding />
         </state>
       </provider>
